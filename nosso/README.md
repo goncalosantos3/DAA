@@ -1,1 +1,0 @@
-# Diretoria do nosso dataset
