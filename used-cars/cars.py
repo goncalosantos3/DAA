@@ -9,3 +9,6 @@ cars = pd.read_csv('cars.csv')
 print(cars.columns)
 
 cars.info()
+
+# Missing Values (exploração)
+print(cars.isnull().sum())
