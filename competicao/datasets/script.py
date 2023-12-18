@@ -106,7 +106,7 @@ for i in range(1, len(ce3)):
             writer.writerow(ce3[i] + cm3[j])
     
     if match == False:
-        writer.writerow(['','','','','',''] + ce3[i])
+        writer.writerow(ce3[i] + ['', '', '', '', '', '', '', '', '', '', '', '', '', '', ''])
 
 e3.close()
 m3.close()
