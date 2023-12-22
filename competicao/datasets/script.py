@@ -12,8 +12,8 @@ writer.writerow(['Data', 'Hora', 'Normal (kWh)', 'Horario Economico (kWh)',
                  'temp_max', 'pressure', 'sea_level', 'grnd_level', 'humidity', 
                  'wind_speed', 'rain_1h', 'clouds_all', 'weather_description'])
 
-e1 = open('energia_202109-202112.csv', 'r')
-m1 = open('meteo_202109-202112.csv', 'r')
+e1 = open('old/energia_202109-202112.csv', 'r')
+m1 = open('old/meteo_202109-202112.csv', 'r')
 
 ce1 = []
 cm1 = []
@@ -41,8 +41,8 @@ for i in range(1, len(cm1)):
 e1.close()
 m1.close()
 
-e2 = open('energia_202201-202212.csv', 'r')
-m2 = open('meteo_202201-202212.csv', 'r')
+e2 = open('old/energia_202201-202212.csv', 'r')
+m2 = open('old/meteo_202201-202212.csv', 'r')
 
 ce2 = []
 cm2 = []
@@ -82,8 +82,8 @@ writer.writerow(['Data', 'Hora', 'Normal (kWh)', 'Horario Economico (kWh)',
                  'temp_max', 'pressure', 'sea_level', 'grnd_level', 'humidity', 
                  'wind_speed', 'rain_1h', 'clouds_all', 'weather_description'])
 
-e3 = open('energia_202301-202304.csv', 'r')
-m3 = open('meteo_202301-202304.csv', 'r')
+e3 = open('old/energia_202301-202304.csv', 'r')
+m3 = open('old/meteo_202301-202304.csv', 'r')
 
 ce3 = []
 cm3 = []
