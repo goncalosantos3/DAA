@@ -56,7 +56,7 @@ RowId,Result
 55,None
 56,None
 57,None
-58,High
+58,Medium
 59,High
 60,High
 61,Medium
@@ -104,7 +104,7 @@ RowId,Result
 103,None
 104,None
 105,None
-106,High
+106,Medium
 107,Medium
 108,High
 109,Medium
@@ -299,7 +299,7 @@ RowId,Result
 298,None
 299,None
 300,Medium
-301,Low
+301,Medium
 302,High
 303,Medium
 304,Medium
@@ -344,7 +344,7 @@ RowId,Result
 343,None
 344,None
 345,None
-346,High
+346,Medium
 347,Medium
 348,Medium
 349,None
@@ -589,7 +589,7 @@ RowId,Result
 588,Medium
 589,Medium
 590,High
-591,Medium
+591,High
 592,Medium
 593,None
 594,None
@@ -632,7 +632,7 @@ RowId,Result
 631,None
 632,None
 633,None
-634,High
+634,Medium
 635,High
 636,High
 637,High
@@ -728,7 +728,7 @@ RowId,Result
 727,None
 728,None
 729,None
-730,High
+730,Medium
 731,High
 732,Medium
 733,High
@@ -752,7 +752,7 @@ RowId,Result
 751,None
 752,None
 753,None
-754,High
+754,Medium
 755,High
 756,High
 757,Medium
@@ -800,7 +800,7 @@ RowId,Result
 799,None
 800,None
 801,None
-802,High
+802,Medium
 803,High
 804,Medium
 805,High
@@ -823,7 +823,7 @@ RowId,Result
 822,None
 823,None
 824,None
-825,Medium
+825,Low
 826,Medium
 827,High
 828,Medium
@@ -995,7 +995,7 @@ RowId,Result
 994,High
 995,High
 996,Medium
-997,Medium
+997,High
 998,Medium
 999,Medium
 1000,Medium
@@ -1119,7 +1119,7 @@ RowId,Result
 1118,High
 1119,High
 1120,High
-1121,Medium
+1121,Low
 1122,None
 1123,None
 1124,None
@@ -1164,7 +1164,7 @@ RowId,Result
 1163,Medium
 1164,None
 1165,None
-1166,Medium
+1166,High
 1167,None
 1168,Medium
 1169,None
@@ -1499,7 +1499,7 @@ RowId,Result
 1498,High
 1499,High
 1500,Medium
-1501,Medium
+1501,High
 1502,High
 1503,High
 1504,Medium
@@ -1548,9 +1548,9 @@ RowId,Result
 1547,None
 1548,None
 1549,None
-1550,Medium
+1550,Low
 1551,Medium
-1552,Medium
+1552,Low
 1553,None
 1554,None
 1555,None
@@ -1575,7 +1575,7 @@ RowId,Result
 1574,High
 1575,Medium
 1576,Medium
-1577,Medium
+1577,Low
 1578,None
 1579,None
 1580,None
@@ -1597,7 +1597,7 @@ RowId,Result
 1596,None
 1597,None
 1598,None
-1599,Medium
+1599,Low
 1600,None
 1601,None
 1602,None
@@ -1665,7 +1665,7 @@ RowId,Result
 1664,None
 1665,None
 1666,None
-1667,None
+1667,Low
 1668,Medium
 1669,High
 1670,Medium
@@ -1735,7 +1735,7 @@ RowId,Result
 1734,None
 1735,None
 1736,None
-1737,Medium
+1737,None
 1738,Medium
 1739,Medium
 1740,High
@@ -1790,7 +1790,7 @@ RowId,Result
 1789,Medium
 1790,None
 1791,Medium
-1792,Medium
+1792,Low
 1793,None
 1794,None
 1795,None
@@ -1833,7 +1833,7 @@ RowId,Result
 1832,None
 1833,None
 1834,High
-1835,None
+1835,Medium
 1836,Medium
 1837,High
 1838,High
@@ -1879,7 +1879,7 @@ RowId,Result
 1878,None
 1879,None
 1880,None
-1881,Medium
+1881,High
 1882,High
 1883,High
 1884,Medium
@@ -1998,8 +1998,8 @@ RowId,Result
 1997,None
 1998,None
 1999,None
-2000,Low
-2001,Medium
+2000,High
+2001,High
 2002,High
 2003,Medium
 2004,Medium
@@ -2027,10 +2027,10 @@ RowId,Result
 2026,High
 2027,High
 2028,High
-2029,Medium
+2029,High
 2030,Medium
 2031,High
-2032,Medium
+2032,High
 2033,High
 2034,Medium
 2035,None
