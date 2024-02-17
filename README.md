@@ -1,4 +1,4 @@
-# Dados e Aprendizagem Automática - Project (23/24)
+# Dados e Aprendizagem Automática - Project (2023/2024)
 
 ## Team
 
